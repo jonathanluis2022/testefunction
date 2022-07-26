@@ -1,4 +1,4 @@
-const num2 = 20 ; 
+const num2 = 200; 
 const num1 = 10 ; 
 
 function calcule () {
